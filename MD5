@@ -1,8 +1,8 @@
-0d365d3f88d55c0bbf279750c69d4c2e *DESCRIPTION
+de876ff554e13346a1b26190b43ede83 *DESCRIPTION
 59b44372656413c9d0f946173eeec536 *LICENSE
 760d6e1f5981665b1705cfb3584e8c71 *NAMESPACE
-1a14cf649ef8f8fe4de5e58d352f12c2 *NEWS.md
-719954d744d6aed2cd2cf6b11dd12ace *R/globalVariables.R
+d7d46f86af52f766582a30e91b82f3fe *NEWS.md
+d97ea8d2f51a1365b9fe03986460c76d *R/globalVariables.R
 f9e5f2eafd17d46e4bdddd6fd97f0de9 *R/impute.r
 f7da5b2b30ed3070e5551a4a20b422f5 *R/is_it_normal.R
 f941905d12575f1a6d25df56856fd9eb *R/non_linear_bins.R
@@ -30,11 +30,11 @@ e6b11d5e33b371bbf5cf90e6bafdd330 *R/small_count_label.r
 fe626179cfb496f46d4d3bc9f737e132 *R/stat_sig.r
 edccc335a89019054bda127e29dc30c1 *R/theme_cleaner.R
 a03fb90a6e701fed5042546bc0a7cfea *R/trauma_case_mix.r
-fba76eb3f88b018a518c3c3148b27f71 *R/trauma_performance.r
+1543593e0c58133c0108e3b57972510e *R/trauma_performance.r
 670953dff68a27d3034c1ae5b813ebab *R/traumar-package.R
 f027fa50e117c740bd9a7c184cbf3fcd *R/weekend.r
-fb73a59fe150f0c36deb3c23b99019ca *README.md
-cb3b20077bebc5da31fc1b46c657c0ff *build/partial.rdb
+787b05e133ed9b45f32d6c311def143c *README.md
+9d40159f50a5fc9949cbfe95a2884126 *build/partial.rdb
 391f696f961e28914508628a7af31b74 *man/figures/lifecycle-deprecated.svg
 691b1eb2aec9e1bec96b79d11ba5e631 *man/figures/lifecycle-experimental.svg
 ed42e3fbd7cc30bc6ca8fa9b658e24a8 *man/figures/lifecycle-stable.svg
@@ -81,7 +81,7 @@ b3dbea8d14bb2320cc3fa1a61a4e6171 *tests/testthat/test-not_in.R
 9ae0dfd31203792e1146b4ac17e4fba1 *tests/testthat/test-pretty_number.R
 7dd3321312a288afd6af6ee7a7fc77c2 *tests/testthat/test-pretty_percent.R
 540093d1662bea16ed0dc91596ce626e *tests/testthat/test-probability_of_survival.R
-70fc0a48aa942fd5ff74dcbfd755a397 *tests/testthat/test-relative_mortality.R
+0d4e6ac7d0c21122d090478843051efa *tests/testthat/test-relative_mortality.R
 108dfdb15c568e80b8b1d2bf918ba3ce *tests/testthat/test-season.R
 6a60441b3e35773f715ef4491daa96c0 *tests/testthat/test-seqic_1.R
 d380d73d1416ee831d6a0aef2a4a63c7 *tests/testthat/test-seqic_10.R
