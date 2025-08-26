@@ -3,9 +3,16 @@
 
 <!-- badges: start -->
 
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![R-CMD-check](https://github.com/bemts-hhs/traumar/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/bemts-hhs/traumar/actions/workflows/R-CMD-check.yaml)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/traumar)](https://CRAN.R-project.org/package=traumar)
+![CRAN total
+downloads](https://cranlogs.r-pkg.org/badges/grand-total/traumar) ![CRAN
+monthly downloads](https://cranlogs.r-pkg.org/badges/last-month/traumar)
+![CRAN weekly
+downloads](https://cranlogs.r-pkg.org/badges/last-week/traumar)
 [![Codecov test
 coverage](https://codecov.io/gh/bemts-hhs/traumar/graph/badge.svg)](https://app.codecov.io/gh/bemts-hhs/traumar)
 <!-- badges: end -->
@@ -124,16 +131,16 @@ trauma_performance(data, Ps_col = Ps, outcome_col = death)
 #> #   Z_Score <dbl>
 ```
 
-## Comparing the Probability of Survival Distribution of your Patient Mix to the [Major Trauma Outcomes Study](https://journals.lww.com/jtrauma/Abstract/1990/11000/The_Major_Trauma_Outcome_Study__Establishing.8.aspx)
+## Comparing the Probability of Survival Distribution of your Patient Mix to the Major Trauma Outcomes Study
 
 The M and Z scores are calculated using methods defined in the
-[literature](https://journals.lww.com/jtrauma/abstract/1978/10000/a_method_for_comparing_survival_of_burn_patients.3.aspx)
-may not be meaningful if your the distribution of the probability of
-survival measure is not similar enough to the Major Trauma Outcomes
-Study distribution. {traumar} provides a way to check this in your data
-analysis script, or even from the console. The `trauma_performance()`
-function does this under the hood for you, so you can get a read out of
-how much confidence you can put into the Z score.
+literature (Champion et al., 1990, Flora, 1978) may not be meaningful if
+the distribution of the probability of survival measure is not similar
+enough to the Major Trauma Outcomes Study distribution. {traumar}
+provides a way to check this in your data analysis script, or even from
+the console. The `trauma_performance()` function does this under the
+hood for you, so you can get a read out of how much confidence you can
+put into the Z score.
 
 ``` r
 
