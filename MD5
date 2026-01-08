@@ -1,8 +1,8 @@
-fb4602498dda46de0a6d364f80c4889e *DESCRIPTION
+ca4ddc7def27afec91bf2e99badf4693 *DESCRIPTION
 59b44372656413c9d0f946173eeec536 *LICENSE
 760d6e1f5981665b1705cfb3584e8c71 *NAMESPACE
-74e277afae6edcfca445df246ecd5d38 *NEWS.md
-d97ea8d2f51a1365b9fe03986460c76d *R/globalVariables.R
+edcaf03bd7a439cd4406d9dbab7dacee *NEWS.md
+fe8ede7f06a656f84d6873f778e7bf72 *R/globalVariables.R
 f9e5f2eafd17d46e4bdddd6fd97f0de9 *R/impute.r
 f7da5b2b30ed3070e5551a4a20b422f5 *R/is_it_normal.R
 6b72061df9127dd4e2e6670e171e4f58 *R/non_linear_bins.R
@@ -10,7 +10,7 @@ ad9eec63c2bb699fd199af5ee7f4581a *R/normalize.r
 a01112227905d5fe46e758551d5660f0 *R/not_in.r
 fc7aba2191eaffd0d844152ad918a564 *R/pretty_number.r
 4fe640d2b08ca4f7011799ff23ca6ec6 *R/pretty_percent.r
-9bf80b66b53cd99cf220fa97bb5cb2c2 *R/probability_of_survival.R
+e8f65b3c94989fba0ed1b7a3894fd353 *R/probability_of_survival.R
 8858a20426798d0ca3b092645ebf6b31 *R/relative_mortality.R
 b38b528970f9ef6a278a5d8e743c92fd *R/season.r
 57936646ea294288af5cb45eebd372f8 *R/seqic_1.R
@@ -34,7 +34,7 @@ a03fb90a6e701fed5042546bc0a7cfea *R/trauma_case_mix.r
 670953dff68a27d3034c1ae5b813ebab *R/traumar-package.R
 f027fa50e117c740bd9a7c184cbf3fcd *R/weekend.r
 159c4b2132ca7335ff33db7d5c5fe10e *README.md
-9d40159f50a5fc9949cbfe95a2884126 *build/partial.rdb
+d54042561b90aafd8a9a202ea63e1e4b *build/partial.rdb
 391f696f961e28914508628a7af31b74 *man/figures/lifecycle-deprecated.svg
 691b1eb2aec9e1bec96b79d11ba5e631 *man/figures/lifecycle-experimental.svg
 ed42e3fbd7cc30bc6ca8fa9b658e24a8 *man/figures/lifecycle-stable.svg
@@ -48,7 +48,7 @@ c00921d54ba56580975f70be41051739 *man/is_it_normal.Rd
 9fe296d660118081cd080931ac6f3e07 *man/normalize.Rd
 bbab6146ade87809e6e2891d63703d83 *man/pretty_number.Rd
 0b5704e20ed00985a175c6fb718ef62b *man/pretty_percent.Rd
-4afb7c821aa777737f765fe5329875b1 *man/probability_of_survival.Rd
+b9c384b2abd03fe301ee0c7c196682e5 *man/probability_of_survival.Rd
 245b2c3f12a247aff02a9e0841f7442d *man/rm_bin_summary.Rd
 4f820f9699c8cb4e9847a3a14fa31d67 *man/rmm.Rd
 8d791cee7b16ef5ca5d832da2f3d927c *man/season.Rd
@@ -97,7 +97,7 @@ d061fb6a7a105a6961e69da1c756abf7 *tests/testthat/test-seqic_6.R
 e940e6c65bfe160dcbda8bbbd6fc30c9 *tests/testthat/test-seqic_8.R
 360dd3e630259f4e206ea9636722b223 *tests/testthat/test-seqic_9.R
 9ad0b1cc4615c6317b1330c66d26f057 *tests/testthat/test-small_count_label.R
-c428fd258f83fda84ceaced8cc702399 *tests/testthat/test-stat_sig.R
+4897344f291e75540eb5d0e4958c3df6 *tests/testthat/test-stat_sig.R
 ca88b643630e231b9196dded27770842 *tests/testthat/test-theme_cleaner.R
 65cd67871e2d2bff6f746933bed22416 *tests/testthat/test-trauma_case_mix.R
 d7df315a23f4b5bdd313bb9e9ef68d64 *tests/testthat/test-trauma_performance.R

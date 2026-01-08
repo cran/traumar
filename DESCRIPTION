@@ -1,7 +1,7 @@
 Type: Package
 Package: traumar
 Title: Calculate Metrics for Trauma System Performance
-Version: 1.2.2
+Version: 1.2.3
 Authors@R: c(
     person("Nicolas", "Foss", , "nicolas.foss@hhs.iowa.gov", role = c("aut", "cre")),
     person("Iowa Department of Health and Human Services", role = "cph")
@@ -43,11 +43,11 @@ Imports: cli, dplyr (>= 1.1.4), ggplot2 (>= 3.5.2), glue, hms (>=
 Suggests: broom, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Encoding: UTF-8
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2025-08-09 03:57:18 UTC; nfoss0
+Packaged: 2026-01-07 21:06:23 UTC; nfoss0
 Author: Nicolas Foss [aut, cre],
   Iowa Department of Health and Human Services [cph]
 Maintainer: Nicolas Foss <nicolas.foss@hhs.iowa.gov>
 Repository: CRAN
-Date/Publication: 2025-08-26 15:10:02 UTC
+Date/Publication: 2026-01-08 03:20:02 UTC
