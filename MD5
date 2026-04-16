@@ -1,7 +1,7 @@
-ae669f4d98dd19513c1cc4b56c5aee8d *DESCRIPTION
+9073bfc0ffea320ef2d43a1fa8875572 *DESCRIPTION
 59b44372656413c9d0f946173eeec536 *LICENSE
 5b3177aff1904ba3496da170a8680239 *NAMESPACE
-1f1ba2f734a26cced0a65ee3a00c0564 *NEWS.md
+d3f3b59faf2a7afc7820c19f61a6fe63 *NEWS.md
 02dfcfd4949ee0af682542fda294386c *R/globalVariables.R
 e49cd4ebf2d2b5d89fbfe9217a42b0c4 *R/impute.r
 927ba7faad78af165b4f92e906c89b9a *R/is_it_normal.R
@@ -23,7 +23,7 @@ f0f631f63f35ae9a3a83889621696213 *R/seqic_13.R
 82382f078af9184de8e4217d1c5c3c1d *R/seqic_4.R
 75ab06f7961a075cb1519ce99ce0dd81 *R/seqic_5.R
 a51a6f806ecdadefb652f07ba165ad73 *R/seqic_6.R
-c6b0b47ca0ef1c8e3f08bae2a8c09817 *R/seqic_7.R
+5d2fda5265106f00598412ef4f51e4bf *R/seqic_7.R
 d8b14eef975347dee2c8881b5528ce64 *R/seqic_8.R
 3c5cb2acb307857477c7590b680a7f30 *R/seqic_9.R
 8365874cc91b9959de2aaa411d02cef0 *R/small_count_label.r
@@ -45,7 +45,7 @@ bba67ca9f5beb9da3de49e8d97d42907 *R/validate_names.R
 647b619f01ad82fa3fcb0a1fc53262a4 *R/validate_set.R
 f027fa50e117c740bd9a7c184cbf3fcd *R/weekend.r
 153ff591365c590ae119ed2f18c30227 *README.md
-d54042561b90aafd8a9a202ea63e1e4b *build/partial.rdb
+ba582b375e5afde780e991c9b7711c6a *build/partial.rdb
 391f696f961e28914508628a7af31b74 *man/figures/lifecycle-deprecated.svg
 691b1eb2aec9e1bec96b79d11ba5e631 *man/figures/lifecycle-experimental.svg
 ed42e3fbd7cc30bc6ca8fa9b658e24a8 *man/figures/lifecycle-stable.svg
